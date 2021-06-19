@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gaoxuchao
-- 👀 I’m interested in Design of Digital Logic
+- 👀 I’m interested in IC Design, Communication, and Computer Arch
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 Email: gao.xuchao@com
